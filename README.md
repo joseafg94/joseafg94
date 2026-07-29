@@ -100,32 +100,6 @@ Highlights
 - Business Management
 - Responsive Design
 
-
-🛍 Vitrina
-
-Product showcase platform designed to help businesses display their products through a clean and responsive interface.
-
-Focus: UI/UX implementation, frontend architecture, and responsive design systems.
-
-Highlights
-
-- Real-time updates
-- Product Catalog
-- Business Profiles
-- Mobile First
-
-More projects are currently in development...
-
----
-
-## 🎯 Goals
-
-- Build production-ready software
-- Contribute to open source
-- Deepen my backend engineering and system design skills
-- Learn cloud infrastructure and DevOps
-- Join a high-performing engineering team
-
 ---
 
 ## 📫 Let's Connect
