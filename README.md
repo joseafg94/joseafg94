@@ -103,7 +103,7 @@ Currently improving my knowledge in:
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![Google Antigravity](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Google Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
 
 ---
 
