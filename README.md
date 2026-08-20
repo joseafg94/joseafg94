@@ -275,7 +275,7 @@ I use AI heavily during research, development, debugging, documentation, and QA 
 
 # 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Fuentes-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jose-fuentes-208972379/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Fuentes-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/jose-fuentes09)
 
 [![GitHub](https://img.shields.io/badge/GitHub-joseafg94-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/joseafg94)
 
