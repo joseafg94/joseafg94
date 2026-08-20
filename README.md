@@ -1,6 +1,6 @@
 # Hi, I'm Jose Fuentes 👋
 
-### Software Developer · Full Stack · Product Builder 🇵🇦
+### Software Developer · Full Stack · Product Builder
 
 I build digital products, web applications, internal systems, and automations focused on solving real-world problems.
 
