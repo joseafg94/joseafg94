@@ -152,11 +152,11 @@ Meniva allows restaurants to manage categories, products, prices, availability, 
 
 **Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS
 
-[![View Meniva](https://img.shields.io/badge/View_Meniva-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://getmeniva.vercel.app/)
+[![View Meniva](https://img.shields.io/badge/View_Meniva-339933?style=for-the-badge\&logo=vercel\&logoColor=white)](https://getmeniva.vercel.app/)
 
 ---
 
-## 🍴 Restaurante Seven
+## 🍴 Restaurante Casa Brasa
 
 **Restaurant digital experience built from Fontesio's reusable restaurant infrastructure.**
 
@@ -173,7 +173,7 @@ A custom restaurant website designed around clear content, menu access, location
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-[![View Restaurante Seven](https://img.shields.io/badge/View_Restaurante_Seven-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://resturante-seven.vercel.app/)
+[![View Restaurante Seven](https://img.shields.io/badge/View_Casa_Brasa-D97757?style=for-the-badge\&logo=vercel\&logoColor=white)](https://resturante-seven.vercel.app/)
 
 ---
 
@@ -181,7 +181,7 @@ A custom restaurant website designed around clear content, menu access, location
 
 A product-focused software project exploring structured workflows and modern interface design.
 
-[![View Scope](https://img.shields.io/badge/View_Scope-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://scopebyfontesio.vercel.app/)
+[![View Scope](https://img.shields.io/badge/View_Scope-4169E1?style=for-the-badge\&logo=vercel\&logoColor=white)](https://scopebyfontesio.vercel.app/)
 
 ---
 
@@ -189,7 +189,7 @@ A product-focused software project exploring structured workflows and modern int
 
 A digital system concept focused on organizing workflows and improving operational clarity.
 
-[![View Ordena](https://img.shields.io/badge/View_Ordena-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ordenabyfontesio.vercel.app/)
+[![View Ordena](https://img.shields.io/badge/View_Ordena-007ACC?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ordenabyfontesio.vercel.app/)
 
 ---
 
@@ -197,7 +197,7 @@ A digital system concept focused on organizing workflows and improving operation
 
 A concept digital experience for an architecture studio, focused on visual hierarchy, editorial presentation, and responsive design.
 
-[![View Altura Arquitectura](https://img.shields.io/badge/View_Altura_Arquitectura-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://alturaarquitectura.vercel.app/)
+[![View Altura Arquitectura](https://img.shields.io/badge/View_Altura_Arquitectura-F05032?style=for-the-badge\&logo=vercel\&logoColor=white)](https://alturaarquitectura.vercel.app/)
 
 ---
 
@@ -286,6 +286,4 @@ I use AI heavily during research, development, debugging, documentation, and QA 
 ---
 
 ### Always building. Always learning. Always shipping.
-
-```
 
